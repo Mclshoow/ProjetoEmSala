@@ -1,0 +1,36 @@
+C:\Users\Alunos\source\repos\AvaliaçãoBarigui\bin\Debug\net5.0-windows\AvaliaçãoBarigui.exe
+C:\Users\Alunos\source\repos\AvaliaçãoBarigui\bin\Debug\net5.0-windows\AvaliaçãoBarigui.deps.json
+C:\Users\Alunos\source\repos\AvaliaçãoBarigui\bin\Debug\net5.0-windows\AvaliaçãoBarigui.runtimeconfig.json
+C:\Users\Alunos\source\repos\AvaliaçãoBarigui\bin\Debug\net5.0-windows\AvaliaçãoBarigui.runtimeconfig.dev.json
+C:\Users\Alunos\source\repos\AvaliaçãoBarigui\bin\Debug\net5.0-windows\AvaliaçãoBarigui.dll
+C:\Users\Alunos\source\repos\AvaliaçãoBarigui\bin\Debug\net5.0-windows\AvaliaçãoBarigui.pdb
+C:\Users\Alunos\source\repos\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.csproj.AssemblyReference.cache
+C:\Users\Alunos\source\repos\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.Form1.resources
+C:\Users\Alunos\source\repos\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.csproj.GenerateResource.cache
+C:\Users\Alunos\source\repos\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\source\repos\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.AssemblyInfoInputs.cache
+C:\Users\Alunos\source\repos\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.AssemblyInfo.cs
+C:\Users\Alunos\source\repos\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.dll
+C:\Users\Alunos\source\repos\AvaliaçãoBarigui\obj\Debug\net5.0-windows\ref\AvaliaçãoBarigui.dll
+C:\Users\Alunos\source\repos\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.pdb
+C:\Users\Alunos\source\repos\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.genruntimeconfig.cache
+C:\Users\Alunos\source\repos\AvaliaçãoBarigui\obj\Debug\net5.0-windows\refint\AvaliaçãoBarigui.dll
+D:\Projetos VS 2019\AvaliaçãoBarigui\bin\Debug\net5.0-windows\AvaliaçãoBarigui.exe
+D:\Projetos VS 2019\AvaliaçãoBarigui\bin\Debug\net5.0-windows\AvaliaçãoBarigui.deps.json
+D:\Projetos VS 2019\AvaliaçãoBarigui\bin\Debug\net5.0-windows\AvaliaçãoBarigui.runtimeconfig.json
+D:\Projetos VS 2019\AvaliaçãoBarigui\bin\Debug\net5.0-windows\AvaliaçãoBarigui.runtimeconfig.dev.json
+D:\Projetos VS 2019\AvaliaçãoBarigui\bin\Debug\net5.0-windows\AvaliaçãoBarigui.dll
+D:\Projetos VS 2019\AvaliaçãoBarigui\bin\Debug\net5.0-windows\AvaliaçãoBarigui.pdb
+D:\Projetos VS 2019\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.csproj.AssemblyReference.cache
+D:\Projetos VS 2019\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.Form1.resources
+D:\Projetos VS 2019\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.csproj.GenerateResource.cache
+D:\Projetos VS 2019\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos VS 2019\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.AssemblyInfoInputs.cache
+D:\Projetos VS 2019\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.AssemblyInfo.cs
+D:\Projetos VS 2019\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.csproj.CoreCompileInputs.cache
+D:\Projetos VS 2019\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.dll
+D:\Projetos VS 2019\AvaliaçãoBarigui\obj\Debug\net5.0-windows\refint\AvaliaçãoBarigui.dll
+D:\Projetos VS 2019\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.pdb
+D:\Projetos VS 2019\AvaliaçãoBarigui\obj\Debug\net5.0-windows\AvaliaçãoBarigui.genruntimeconfig.cache
+D:\Projetos VS 2019\AvaliaçãoBarigui\obj\Debug\net5.0-windows\ref\AvaliaçãoBarigui.dll
